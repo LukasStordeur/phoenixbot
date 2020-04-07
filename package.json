@@ -1,0 +1,12 @@
+{
+  "name": "phoenixbot",
+  "version": "1.0.0",
+  "description": "Team-Phoenix bot",
+  "main": "bot.js",
+  "author": "Laura Stordeur",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0"
+  }
+}
